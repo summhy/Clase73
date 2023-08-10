@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "pg": "^8.11.2"
+  },
+  "name": "clase73",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
